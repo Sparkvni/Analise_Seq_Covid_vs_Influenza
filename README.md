@@ -1,1 +1,1 @@
-# Analise_Seq_Covid_vs_Influenza
+# Comparação entre SeqUências de DNA - CoViD-19 vs Influenza A
