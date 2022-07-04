@@ -11,6 +11,6 @@ SARS-CoV-2 Wuhan-Hu-1: https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=f
 
 Influenza A: https://www.ncbi.nlm.nih.gov/nuccore/CY266194.1?report=fasta
 
-Binder: https://mybinder.org/v2/gh/Sparkvni/Analise_Seq_Covid_vs_Influenza/f2e0c7bf255e95e7a0897fb17db277a0a4e14ff0?urlpath=lab%2Ftree%2Fdesafio.ipynb
+Binder: https://mybinder.org/v2/gh/Sparkvni/Analise_Seq_Covid_vs_Influenza/HEAD?labpath=desafio.ipynb
 
 Post: https://lfport.wordpress.com/portfolio/desafio1/
